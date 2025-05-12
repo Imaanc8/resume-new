@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Harshaan Chohan - Resume</title>
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header>
+<h1>Harshaan Chohan</h1>
+<p>Seaquam Secondary School Student | Athlete | Gamer</p>
+<p>Contact: <a href="mailto:harshaanc813@deltalearns.ca">harshaanc813@deltalearns.ca</a> | 778-447-0900</p>
+</header>
+<section id="about">
+<h2>About Me</h2>
+<p>Hello! I'm Harshaan Chohan, a student at Seaquam Secondary School with a passion for sports, academics, and gaming. I balance my academics with my athletic pursuits and aim for excellence in everything I do.</p>
+</section>
+<section id="academics">
+<h2>Academics</h2>
+<p>Here are my most recent grades:</p>
+<ul>
+<li><strong>English:</strong> 90%</li>
+<li><strong>Math:</strong> 87%</li>
+<li><strong>Science:</strong> 93%</li>
+<li><strong>Computers:</strong> 88%</li>
+<li><strong>Social Studies:</strong> 89%</li>
+<li><strong>Photography:</strong> 88%</li>
+<li><strong>French:</strong> 91%</li>
+<li><strong>PE:</strong> 96%</li>
+</ul>
+</section>
+<section id="sports">
+<h2>Sports</h2>
+<p><strong>Boxing:</strong> 1 amateur fight with 68 significant strikes and 44 critical strikes.</p>
+<p><strong>Soccer:</strong> Scored 66 regular-season goals playing left wing.</p>
+<p><strong>40-Yard Dash:</strong> Completed in 2 seconds (improved).</p>
+</section>
+<section id="education">
+<h2>Education</h2>
+<ul>
+<li><strong>Current:</strong> Seaquam Secondary School</li>
+<li><strong>Past:</strong> Newton Elementary</li>
+</ul>
+</section>
+<footer>
+<p>Contact me at <a href="mailto:harshaanc813@deltalearns.ca">harshaanc813@deltalearns.ca</a> or call 778-447-0900.</p>
+</footer>
+</body>
+</html>
